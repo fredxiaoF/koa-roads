@@ -1,0 +1,27 @@
+{
+  "name": "koa-roads",
+  "version": "1.0.0",
+  "description": "A NodeJS web framework based on KOA2",
+  "dependencies": {
+    "class-autoloader": "^1.0.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredxiaoF/koa-roads.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "rails"
+  ],
+  "author": "Fred Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredxiaoF/koa-roads/issues"
+  },
+  "homepage": "https://github.com/fredxiaoF/koa-roads#readme"
+}
